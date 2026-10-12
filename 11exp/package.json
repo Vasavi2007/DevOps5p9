@@ -1,0 +1,13 @@
+{
+  "name": "11exp",
+  "version": "1.0.0",
+  "description": "Simple JavaScript calculator API tested with Karate",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "calculator": "node calculator.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
